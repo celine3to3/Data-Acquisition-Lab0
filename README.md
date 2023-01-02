@@ -6,7 +6,7 @@ Scrapes the "List of countries by carbon dioxide emissions" from the linked wiki
 
 Scrapes the column "2017 (% of world)", stores the data in a defaultdict and prints.  
 
-# Program Output Preview
+# Program Output
 
 ![image](https://user-images.githubusercontent.com/121079918/210127718-41bea6dc-6498-49ce-9749-a89df5a58122.png)
 
